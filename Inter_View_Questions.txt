@@ -1,0 +1,11 @@
+Q)What type of test cases to be automated?
+Types of Test Cases To Automate are
+
+	Data-driven test cases
+	Test cases with higher complexity
+	Test case with many database updates
+	The test execution rate is high
+	Smoke/Critical tests
+	Tests with several combinations
+	Graph test cases
+	Higher manual execution time
